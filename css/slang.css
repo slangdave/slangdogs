@@ -81,7 +81,7 @@ img {
     width: 25%;
 }
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/STACKED.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/STACKED.jpg");
     height: 720px;
     background-position: center;
     background-repeat: no-repeat;
