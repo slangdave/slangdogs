@@ -167,6 +167,36 @@ img {
   background-color: #555;
 }
 
+/* || GALLERY PHOTO PAGE */
+
+*.gallerycolumn {
+  box-sizing: border-box;
+}
+
+.galleryhead {
+  text-align: center;
+  padding: 32px;
+}
+
+/* Create two equal columns that floats next to each other */
+.gallerycolumn {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.gallerycolumn img {
+  margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 
 
 /* || TRANSITIONS */ 
